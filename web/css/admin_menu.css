@@ -1,0 +1,21 @@
+#a_menu ul li{
+    display: inline-block;
+    padding: 5px;
+    width: 135px;
+    font-family: georgia;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 11px;
+    list-style-type: none;
+    border-right: 2px solid #ffffff;
+}
+#a_menu ul li a{
+    color: white;
+    text-decoration: none;
+}
+#a_menu ul li a:hover{
+    color: black;
+   }
+   #a_menu ul li:hover{
+border-right: 5px solid ;
+   }

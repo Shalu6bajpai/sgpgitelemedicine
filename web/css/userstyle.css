@@ -1,0 +1,77 @@
+#outer{
+    width: 1200px;
+    height: auto;
+    min-height: 1100px;
+    margin: 0 auto;
+}
+#user_menu{
+    width: 1200px;
+    height: 50px;
+    background-color: #0399D8;;
+ 
+}
+#user_header{
+    width: 1200px;
+    height: 100px;
+    margin-top: 5px;
+}
+#user_logo{
+    width: 150px;
+    height: 150px;
+    float: left;
+    
+}
+#sitetitle{
+    width: 1050px;
+    height: 150px;
+    background-color: navy;
+    float: left;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    padding-top: 20px;
+}
+#info{
+    margin-top: 55px;
+    height: 50px;
+    width: 1200px;
+    
+}
+#date,#name{
+    width: 600px;
+    text-align: center;
+    height: 50px;
+    font-size: 30px;
+    padding-top:10px;
+    float: left;
+    background-color: lightslategray;
+    color: white;
+    
+}
+body{
+    background-color: #BEE6EF;
+}
+#user_container{
+    margin-top: 5px;
+    width: 1200px;
+    min-height: 700px;
+    height: auto;
+     background-color: #EFEE64;
+}
+#user_footer{
+    width: 1200px;
+    height: 100px;
+    margin-top: 5px;
+}
+#copyright,#developedby{
+    width: 600px;
+    height: 80px;
+    float: left;
+    background-color: lime;
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
